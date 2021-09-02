@@ -13,7 +13,7 @@ namespace RandomStudent
 
         public Student(String name, StudentType st)
         {
-            Name = name;
+            Name = name; 
             StudentType = st;
         }
     }
